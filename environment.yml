@@ -1,0 +1,5 @@
+name: dgsa
+channels:
+  - conda-forge
+dependencies:
+  - numpy
